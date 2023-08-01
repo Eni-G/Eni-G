@@ -1,6 +1,4 @@
-- Hi 👋  I’m Eniko
-- I’m currently learning JavaScript
-- I’m interested in learning new things, and everything Web3
+- Hi 👋
 
 <!---
 Eni-G/Eni-G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
